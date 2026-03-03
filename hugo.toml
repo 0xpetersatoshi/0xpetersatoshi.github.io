@@ -175,7 +175,7 @@ theme = "loveit"
       gravatarEmail = ""
       # URL of avatar shown in home page
       # 主页显示头像的 URL
-      avatarURL = "https://i.seadn.io/gae/mbBR98AE3TaiODd1y6cUHpzpPGzoal6H_zXAm-0aVvqfitTQurMnKXjFgbWp_CVAmJLgucuBZnz7zSo7XL4NnI242_F5JHbxbq_emus?auto=format&dpr=1&w=1000"
+      avatarURL = "https://i2c.seadn.io/ethereum/0x8943c7bac1914c9a7aba750bf2b6b09fd21037e0/efb2699a7dd5e225444008db51c07b/a5efb2699a7dd5e225444008db51c07b.jpeg?w=1000"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
       title = "0xPeterSatoshi"
